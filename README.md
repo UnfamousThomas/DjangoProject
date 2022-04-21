@@ -11,3 +11,5 @@ Kasutatud programmid:
 - Discord
 - DiscordWebHook Python Library (https://pypi.org/project/discordwebhook/)
 - Django (https://www.djangoproject.com/)
+
+Projekti tutvustust saab näha ka siit: https://www.youtube.com/watch?v=w1MoWT1CB6o
