@@ -1,6 +1,11 @@
-# DjangoProjekt
+# DjangoProject - English
+
+### A small project made for programming class
+
+Project is quite simple, using just Django and a Discord web hook. Using a form, django sends the input of it to the webhook.
+# DjangoProjekt - Estonian
  
-### Programeerimis suuna kursuse jaoks tehtud projekt Rocca al Mare Koolis.
+### Programeerimis suuna kursuse jaoks tehtud projekt 
 
 Projekt ise on suhteliselt lihtne, kasutan lihtsalt djangot ja discordwebhook'i, selleks et saata läbi formsi mille django genereerib sõnum discordi chanelisse.
 
